@@ -1,4 +1,4 @@
-# Awesome Self Publishing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Self Publishing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -109,10 +109,10 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 
 ## Related Awesome Lists
 
-- **[Awesome Blogging](https://github.com/awesomelistsio/awesome-blogging)** – Blogging tools, tips, and platforms.
-- **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)** – Promote your book with effective content strategies.
-- **[Awesome Email Marketing](https://github.com/awesomelistsio/awesome-email-marketing)** – Build and manage your reader mailing list.
-- **[Awesome Ghost](https://github.com/awesomelistsio/awesome-ghost)** – Self-publishing content via Ghost CMS.
+- **[Awesome Blogging](https://github.com/brandonhimpfen/awesome-blogging)** – Blogging tools, tips, and platforms.
+- **[Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)** – Promote your book with effective content strategies.
+- **[Awesome Email Marketing](https://github.com/brandonhimpfen/awesome-email-marketing)** – Build and manage your reader mailing list.
+- **[Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost)** – Self-publishing content via Ghost CMS.
   
 ## Contribute
 
