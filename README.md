@@ -82,6 +82,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [ProWritingAid](https://prowritingaid.com/) – Writing coach and editor.
 - [Hemingway Editor](https://hemingwayapp.com/) – App to make your writing bold and clear.
 - [NovelPad](https://novelpad.co/) – Cloud-based novel writing platform.
+- [SHOW Standard](https://github.com/R8rly/show) – Open content rating for books (spice, heat, darkness, transgression) for authors to show on listings.
 
 ## Legal & Business
 
